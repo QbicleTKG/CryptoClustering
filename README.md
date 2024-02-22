@@ -1,2 +1,2 @@
 # CryptoClustering
-GitHub repo for Unsupervised Learning module.
+No assistance was needed for this activity. This was a quick and easy initial dive into Unsupervised Machine Learning. 
